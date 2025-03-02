@@ -19,25 +19,25 @@
   - 图片动态加载
 
 ## 📦 项目结构
-company-website
-├── Home.py # 主界面入口 
-├── send_email.py # 邮件服务核心模块 
-├── pages/ 
-│ └── Contact_Us.py # 联系页面组件 
-├── data.csv # 团队成员数据(姓名/职位/照片) 
-├── topics.csv # 咨询主题选项 
-├── images/ # 成员照片存储目录 
-└── requirements.txt # 依赖清单
+company-website<br />
+├── Home.py # 主界面入口 <br />
+├── send_email.py # 邮件服务核心模块 <br />
+├── pages/ <br />
+│ └── Contact_Us.py # 联系页面组件 <br />
+├── data.csv # 团队成员数据(姓名/职位/照片) <br />
+├── topics.csv # 咨询主题选项 <br />
+├── images/ # 成员照片存储目录 <br />
+└── requirements.txt # 依赖清单<br />
 
 ## 🚀 快速启动
 ### 环境准备
 bash
 ### 克隆项目
-git clone https://github.com/Echosofreverie/company-website.git
-cd company-website
+git clone https://github.com/Echosofreverie/company-website.git<br />
+cd company-website<br />
 ### 创建虚拟环境（可选）
-python -m venv venv 
-source venv/bin/activate # Linux/Mac 
-venv\Scripts\activate # Windows
+python -m venv venv <br />
+source venv/bin/activate # Linux/Mac <br />
+venv\Scripts\activate # Windows<br />
 ### 安装依赖
-pip install -r requirements.txt
+pip install -r requirements.txt<br />
